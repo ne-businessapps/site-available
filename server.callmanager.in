@@ -2,7 +2,7 @@ server {
         listen 80 ;
         listen [::]:80;
 
-        root /var/www/development/public;
+        root /var/www/Testrepo;
 
         #root defines the path to project folder and location that run on server .
 
