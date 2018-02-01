@@ -2,7 +2,7 @@ server {
         listen 80 ;
         listen [::]:80;
 
-        root /var/www/Testrepo;
+        root /var/www/call_manager_staging;
 
         #root defines the path to project folder and location that run on server .
 
